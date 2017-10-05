@@ -72,7 +72,10 @@ libraries-override:
       theme:
         css/node.preview.css: false
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> a4546cb54399937e7bf5b9d5bfdb01a88ec77570
 # The following are dynamic library overrides based on certain critera,
 # usually a theme setting.
 #
